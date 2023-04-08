@@ -1,0 +1,10 @@
+{
+  "users": [],
+  "admin": [
+    {
+      "email": "admin@gmail.com",
+      "password": "masai"
+    }
+  ],
+  "books": []
+}
